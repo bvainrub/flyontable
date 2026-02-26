@@ -1,4 +1,4 @@
-# Remember the Fly — Zapomni Mukhu
+# Remember the Fly — 
 
 A browser-based working memory trainer built around a simple but surprisingly demanding concept: a fly lands on a grid, you memorize its position, close your eyes, and follow its movement through audio commands alone. When you believe it has crossed the edge of the grid, you press Stop.
 
