@@ -157,5 +157,6 @@ If you want to host it, drop it on any static file server or GitHub Pages. No co
 ## About
 
 Built as a focused single-purpose training tool. No accounts, no tracking, no data collection, no ads.
+Special thanks to Алексей Ситников for inspiration 
 
 Vibe coded with [Claude.ai](https://claude.ai).
