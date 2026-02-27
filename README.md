@@ -153,7 +153,7 @@ Download the file. Open it in a browser. That is the entire setup.
 If you want to host it, drop it on any static file server or GitHub Pages. No configuration needed.
 
 ---
-
+![](https://komarev.com/ghpvc/?username=bvainrub&color=blue&style=flat)
 ## About
 
 Built as a focused single-purpose training tool. No accounts, no tracking, no data collection, no ads.
